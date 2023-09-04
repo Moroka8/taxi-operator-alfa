@@ -1,0 +1,109 @@
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maxim\Desktop\Учеба\С#\3 семестр\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Desktop\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Desktop\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Admin\Desktop\WpfApp1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\User\Downloads\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\User\Downloads\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\User\Downloads\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\User\Downloads\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\User\Downloads\WpfApp1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\User\Downloads\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\WpfApp1\obj\Debug\App.g.cs
+C:\Users\User\Downloads\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\User\Downloads\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\User\Downloads\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\User\Downloads\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\User\Downloads\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\User\Downloads\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Downloads\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Downloads\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Downloads\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Downloads\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Admin\Downloads\WpfApp1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Downloads\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\Desktop\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maxim\Desktop\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maxim\Desktop\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Maxim\Desktop\WpfApp1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maxim\Desktop\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Maxim\Desktop\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Maxim\Desktop\Учеба\С#\WpfApp1\obj\Debug\WpfApp1.pdb

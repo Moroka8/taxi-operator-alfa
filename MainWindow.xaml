@@ -1,0 +1,49 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:WindowsPresentation="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation" x:Class="WpfApp1.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Loaded="MapLoaded">
+
+        <WindowsPresentation:GMapControl x:Name="Map" HorizontalAlignment="Left" Height="310" Margin="216,99,0,0" VerticalAlignment="Top" Width="566" Loaded="MapLoaded" MouseLeftButtonDown="Map_MouseLeftButtonDown"/>
+        <GroupBox Header="Cursor" HorizontalAlignment="Left" Height="83" Margin="26,27,0,0" VerticalAlignment="Top" Width="119">
+            <StackPanel>
+                <RadioButton x:Name="near" Margin="3">Nearest Object</RadioButton>
+                <RadioButton x:Name="create" Margin="3">Create Point</RadioButton>
+                <RadioButton Margin="3">Drag</RadioButton>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Add" HorizontalAlignment="Left" Height="110" Margin="26,139,0,0" VerticalAlignment="Top" Width="119">
+            <StackPanel>
+                <TextBox x:Name="name_box"/>
+                <ComboBox x:Name="obj_list">
+                    <ComboBoxItem x:Name="obj_area" Content="Area"/>
+                    <ComboBoxItem x:Name="obj_human" Content="Human"/>
+                    <ComboBoxItem x:Name="obj_car" Content="Car"/>
+                    <ComboBoxItem x:Name="obj_route" Content="Route"/>
+                </ComboBox>
+                <Button x:Name="Add_but" Content="Add" Click="Add_but_Click" />
+                <Button x:Name="Clear_but" Content="Clear Points" Click="Clear_but_Click" />
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Find" HorizontalAlignment="Left" Height="65" Margin="26,280,0,0" VerticalAlignment="Top" Width="119">
+            <StackPanel>
+                <TextBox x:Name="find_box"/>
+                <Button x:Name="find_but" Content="Find" Click="find_but_Click"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Order" HorizontalAlignment="Left" Height="67" Margin="216,13,0,0" VerticalAlignment="Top" Width="119">
+            <StackPanel>
+                <ComboBox x:Name="hum_list">
+                </ComboBox>
+                <Button x:Name="order_but" Content="Get a taxi" Click="order_but_Click" />
+            </StackPanel>
+        </GroupBox>
+        <ProgressBar x:Name="taxi_progress" HorizontalAlignment="Left" Height="22" Margin="455,36,0,0" VerticalAlignment="Top" Width="251" Background="#FFE6E6E6" Visibility="Hidden"/>
+
+    </Grid>
+</Window>
